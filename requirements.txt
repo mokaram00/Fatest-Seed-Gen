@@ -1,0 +1,6 @@
+mnemonic==0.20
+colorama==0.4.6
+hdwallet==2.1.1
+requests==2.31.0
+pyfiglet==1.0.2
+cryptography==41.0.7 
